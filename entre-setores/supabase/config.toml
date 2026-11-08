@@ -1,0 +1,8 @@
+# Usado apenas por quem publica as funções pela linha de comando (CLI).
+# Pelo painel do Supabase, desligue "Verify JWT" nas duas funções.
+# As duas funções conferem a identidade por conta própria.
+[functions.admin-users]
+verify_jwt = false
+
+[functions.send-notification-email]
+verify_jwt = false
