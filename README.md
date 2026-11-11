@@ -2,7 +2,7 @@
 
 Sistema web para centralizar as **solicitações internas entre os setores de uma empresa**. Quem precisa de algo abre um chamado para o setor responsável, conversa com o atendente no próprio chamado e só encerra o pedido quando aprova a solução. Projeto acadêmico, em português, baseado no documento **Sistema de Solicitações Internas.pdf**.
 
-**Site publicado:** [Abrir Entre setores](https://ceciliaccarvalho.github.io/entre-setores/) · **Repositório:** [ceciliaccarvalho/entre-setores](https://github.com/ceciliaccarvalho/entre-setores)
+**Site publicado:** [Abrir Entre setores](https://ceciliaccarvalho.github.io/Entre-Setores/) · **Repositório:** [ceciliaccarvalho/entre-setores](https://github.com/ceciliaccarvalho/entre-setores)
 
 ## O que o sistema faz
 
